@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: mathpost
 title:  "latex test"
 date:   2019-11-10 14:28:57 +0800
 categories: test
+tags: test
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Latex test
 $$

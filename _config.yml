@@ -50,3 +50,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+    - achieves.md
+    - categories.md
+    - tags.md
+    - about.md
